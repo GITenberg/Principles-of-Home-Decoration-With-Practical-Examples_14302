@@ -1,0 +1,28 @@
+_repo: Principles-of-Home-Decoration-With-Practical-Examples_14302
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wheeler, Candace
+    alias: Wheeler, Candace Thurber
+    birthdate: 1827
+    deathdate: 1923
+    gutenberg_agent_id: '5460'
+    url: http://www.gutenberg.org/2009/agents/5460
+    wikipedia: http://en.wikipedia.org/wiki/Candace_Wheeler
+description: ''
+gutenberg_issued: '2004-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14302'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NK'
+- !lcsh 'Interior decoration'
+title: Principles of Home Decoration, With Practical Examples
+url: http://www.gutenberg.org/ebooks/14302
